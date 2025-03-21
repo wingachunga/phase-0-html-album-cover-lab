@@ -47,7 +47,7 @@ which HTML tags to use.
 
 ### Deliverables
 
-Write your code in `index.html`. Your job is to make sure the text from
+Write3 your code in `index.html`. Your job is to make sure the text from
 `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags.
 
 You can see the images you'll be using in the 'images' folder, but you'll have
